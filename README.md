@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem vindo ao meu perfil GitHub!
 
-<!--
-**anandaviana/anandaviana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 28 anos, sou de São Paulo/SP. Sou uma pessoa muito curiosa e estou sempre em busca de novos aprendizados e desafios.
 
-Here are some ideas to get you started:
+:chart_with_upwards_trend: Desenvolvo projetos de Análise e Visualização de Dados.
+:triangular_ruler: Minha formação original é como Arquiteta e Urbanista, com especialização em Gestão de Projetos. Em 2024 decidi realizar uma transição de carreira para tecnologia após ter contato com Python e me apaixonar por esse universo.
+:book: Atualmente sou aluna do Bootcamp de Data Analytics da Womakers Code, e tenho desenvolvido projetos pessoais e como freelancer para compor meu portfólio, que você pode conferir aqui e no Medium. 
+:mailbox: Você pode entrar em contato comigo pelo [link](https://www.linkedin.com/in/ananda-viana-86ba2815a/ "Linkedin").
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Tencnologias e Ferramentas:
+
+<i class="devicon-python-plain-wordmark colored"></i> 
+<i class="devicon-pandas-plain-wordmark"></i>
