@@ -1,4 +1,4 @@
-## Bem vindo ao meu perfil GitHub!
+## Bem vindo ao meu GitHub!
 
 Tenho 28 anos, sou de São Paulo/SP. Sou uma pessoa muito curiosa e estou sempre em busca de novos aprendizados e desafios.
 <br></br>
