@@ -9,7 +9,6 @@ Tenho 28 anos, sou de São Paulo/SP. Sou uma pessoa muito curiosa e estou sempre
 
 
 ### Tecnologias e Ferramentas:
-
 <p>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="15" height="15"/> Python
    &nbsp;&nbsp;&nbsp;
@@ -24,11 +23,11 @@ Tenho 28 anos, sou de São Paulo/SP. Sou uma pessoa muito curiosa e estou sempre
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="15" height="15"/> Git
    &nbsp;&nbsp;&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="15" height="15"/> GitHub
-</p>
+</p><br>
 
 ### Estatísticas: 
 <div>
 <a href="https://github.com/anandaviana">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandaviana&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=anandaviana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandaviana&layout=compact&langs_count=7&theme=catppuccin_latte"/>
+<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=anandaviana&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true"/>
 </div>
