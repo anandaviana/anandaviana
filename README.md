@@ -8,11 +8,9 @@ Tenho 28 anos, sou de São Paulo/SP. Sou uma pessoa muito curiosa e estou sempre
 :mailbox: Você pode entrar em contato comigo pelo [Linkedin](https://www.linkedin.com/in/ananda-viana-86ba2815a/ "Linkedin"). <br></br>
 
 ### Tecnologias e Ferramentas:
- 
-<i class="devicon-python-plain-wordmark colored"></i> 
-<i class="devicon-pandas-plain-wordmark"></i>
-<i class="devicon-numpy-plain"></i>
-<i class="devicon-matplotlib-plain"></i>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<i class="devicon-github-original"></i>
-<i class="devicon-vscode-plain"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
