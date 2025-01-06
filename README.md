@@ -8,12 +8,13 @@ Tenho 28 anos, sou de São Paulo/SP. Sou uma pessoa muito curiosa e estou sempre
 :mailbox: Você pode entrar em contato comigo pelo [Linkedin](https://www.linkedin.com/in/ananda-viana-86ba2815a/ "Linkedin"). <br></br>
 
 ### Tecnologias e Ferramentas:
-<div style="display: flex; align-items: center; gap: 10px;">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
-   <div> Python </div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" /> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />
-</div>
+### Tecnologias e Ferramentas:
+
+| Ícone | Ferramenta |
+|-------|------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> | **Python** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40"/> | **Pandas** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40"/> | **NumPy** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/> | **Matplotlib** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/> | **Git** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/> | **GitHub** |
