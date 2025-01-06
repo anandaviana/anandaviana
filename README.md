@@ -11,7 +11,7 @@ Tenho 28 anos, sou de São Paulo/SP. Sou uma pessoa muito curiosa e estou sempre
 ### Tecnologias e Ferramentas:
 
 <p>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> Python
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30"/> Python
    &nbsp;&nbsp;&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40"/> Pandas
    &nbsp;&nbsp;&nbsp;
