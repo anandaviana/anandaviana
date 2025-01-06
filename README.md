@@ -10,11 +10,30 @@ Tenho 28 anos, sou de São Paulo/SP. Sou uma pessoa muito curiosa e estou sempre
 ### Tecnologias e Ferramentas:
 ### Tecnologias e Ferramentas:
 
-| Ícone | Ferramenta |
-|-------|------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> | **Python** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40"/> | **Pandas** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40"/> | **NumPy** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/> | **Matplotlib** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/> | **Git** |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/> | **GitHub** |
+### Tecnologias e Ferramentas:
+<div style="display: flex; align-items: center; gap: 20px;">
+   <div style="display: flex; align-items: center; gap: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+      <span>Python</span>
+   </div>
+   <div style="display: flex; align-items: center; gap: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40"/>
+      <span>Pandas</span>
+   </div>
+   <div style="display: flex; align-items: center; gap: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40"/>
+      <span>NumPy</span>
+   </div>
+   <div style="display: flex; align-items: center; gap: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
+      <span>Matplotlib</span>
+   </div>
+   <div style="display: flex; align-items: center; gap: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
+      <span>Git</span>
+   </div>
+   <div style="display: flex; align-items: center; gap: 5px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
+      <span>GitHub</span>
+   </div>
+</div>
