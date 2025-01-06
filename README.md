@@ -1,5 +1,3 @@
- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
-
 ## Bem vindo ao meu GitHub!
 
 Tenho 28 anos, sou de São Paulo/SP. Sou uma pessoa muito curiosa e estou sempre em busca de novos aprendizados e desafios.
@@ -15,6 +13,6 @@ Tenho 28 anos, sou de São Paulo/SP. Sou uma pessoa muito curiosa e estou sempre
 <i class="devicon-pandas-plain-wordmark"></i>
 <i class="devicon-numpy-plain"></i>
 <i class="devicon-matplotlib-plain"></i>
-<i class="devicon-git-plain"></i>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 <i class="devicon-github-original"></i>
 <i class="devicon-vscode-plain"></i>
